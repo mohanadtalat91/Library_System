@@ -1,7 +1,7 @@
 Library System 
 ==============================
 
-Here is a library system, it's a console application using a C++ as a programming language 
+Here is a library system, it's a console application using a C++ as a programming language.
 This System can do operation like as :-
 
 
